@@ -13,7 +13,8 @@ Every project is a new challenge for me to improve and improve.
 
 - [Alternative Text](01-alternative-text/index.md)
 - [First impression](02-first-impression/index.md)
-- [Conetent first](03-content-first/index.md)
-- [Experience](04-experience/index.md)
-- [Voice & Tone](05-voice-tone/index.md)
+- [Content first](03-content-first/index.md)
+- [Case study](04-case-study/index.md)
+- [Experience](05-experience/index.md)
+- [Voice & Tone](06-voice-tone/index.md)
 - [Takeaways](takeaways/index.md)
