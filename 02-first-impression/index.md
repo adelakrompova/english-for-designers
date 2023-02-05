@@ -7,6 +7,8 @@ I am a student at the University of Creative Communication specializing in graph
 ![ja](ja.JPG)
 …black and white photos, the answer to all your questions, thank you…
 
+## About me and my work
+
 I gather experience in the field of graphics, media, marketing, typography, illustration and drawing.
 I try to gradually improve in as many areas as possible in today's fast-paced world of advertising and media, so that I can then offer as many of my skills as possible.
 
