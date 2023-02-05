@@ -1,5 +1,5 @@
 # Alternative text
 
-![Alt](ohnostrojove a.png)
+![Alt](ohnostroj.PNG)
 
 **Alt text:** Handwritten letter A with epic firework effect
