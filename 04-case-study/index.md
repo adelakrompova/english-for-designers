@@ -17,3 +17,5 @@ The simpliest ones are for famous people, where I choose some famous photo and r
 ![process](process.jpg)
 
 ![done](done.jpg)
+
+This is one of my most favourite illustration. It is portrait of Jaroslav Weigel, actor from my favourite Jara Cimrman's theatre. This picture was drawn for the birth anniversary.
