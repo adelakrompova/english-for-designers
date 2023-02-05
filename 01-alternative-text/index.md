@@ -1,5 +1,5 @@
 # Alternative text
 
-![a](a.PNG)
+![a](a.png)
 
 **Alt text:** Handwritten letter A with epic firework effect
