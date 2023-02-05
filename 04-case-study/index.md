@@ -5,7 +5,7 @@ That was the thing why I wanted to have my own too.
 
 All of my illustrations have satured monochrome background. With the background colour I try to capture the whole mood of the illustration. The rest of it is drawn by hand, with few simple lines, sometimes a bit imperfectly (yup, it has its purpose) and with no shading.
 
-![bla](bla.JPG)
+![bla](bla.jpg)
 
 It's probably the most easiest way of illustration but I adore it and every of them has something from me in it.
 Also I must humbly add that all feedbacks on some of my work were positive.
