@@ -9,4 +9,6 @@ As part of my studies, I also have experience with real clients; with the creati
 I love colors and their power.
 Every project is a new challenge for me to improve and improve.
 
+<a href="https://adelakromp.myportfolio.com/">My portfolio!</a>
+
 ![ja](ja.JPG)
