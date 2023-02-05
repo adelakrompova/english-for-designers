@@ -1,4 +1,4 @@
-# Hi, I'm Adela
+# Hi, I'm Adela🥂
 
 I'm trying to do graphic design.
 
