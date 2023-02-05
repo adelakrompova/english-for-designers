@@ -20,7 +20,7 @@ As part of my studies, I also have experience with real clients; with the creati
 
 ![clara](clara.jpg)
 
-![kc](kc.png)   ![kocka](kocka.jpg)   ![hc](hc.jpg)   ![earth](earth.jpg)
+![colours](colours.jpg)   
 
 I love colors and their power. And books. (…Did you notice?)
 
