@@ -1,4 +1,4 @@
-# Content fist
+# Content first
 
 I am a student at the University of Creative Communication specializing in graphic design.
 I gather experience in the field of graphics, media, marketing, typography, illustration and drawing.
