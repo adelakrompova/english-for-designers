@@ -1,6 +1,6 @@
 # Hi, I'm Adela
 
-I'm trying do graphic design.
+I'm trying to do graphic design.
 
 ## Classwork
 
