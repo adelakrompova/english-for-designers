@@ -14,4 +14,4 @@ editing photos, making ad spots, creating online banners, complete final materia
 #### Internship - graphic designer
 2018
 
-<a href="https://www.cryptomania.cz/en/about-us/"<More about Cryptomania</a>
+<a href="https://www.cryptomania.cz/en/about-us/">More about Cryptomania</a>
