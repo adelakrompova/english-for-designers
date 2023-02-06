@@ -11,7 +11,7 @@ I'm trying to do graphic design.
 - [Content first](03-content-first/index.md)
 - [Case study](04-case-study/index.md)
 - [Experience](05-experience/index.md)
-- [Voice & Tone](06-Voice-tone/index.md)
+- [Voice & Tone](06-voice-tone/index.md)
 
 ## Extra
 
