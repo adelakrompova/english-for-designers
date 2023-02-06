@@ -22,3 +22,4 @@ My tone is positive, respectful and emphatic. I try to be fair and honest, but a
 
 ## Style
 
+I search and combine my own handwriting and style typical for me, which I always try to more or less inscribe in each of my work and projects.
