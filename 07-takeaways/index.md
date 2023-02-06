@@ -6,7 +6,7 @@
 2. How to make my CV and portfolio much more creative.
 3. Better presentation in English.
 4. Have English lessons with a native speaker.
-5. To be less nervous about my English.
+5. Be less nervous about my English.
 
 ## Thank you, Justin!
 
