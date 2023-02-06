@@ -16,7 +16,7 @@ editing photos, making ad spots, creating online banners, complete final materia
 
 <a href="https://www.cryptomania.cz/en/about-us/">More about Cryptomania</a>
 
-## School
+## Education
 
 ### University of Creative Communications
 #### Visual Arts, Specializations Graphic and Media Design (Bachelor’s Programme)
