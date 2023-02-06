@@ -15,4 +15,5 @@ I'm trying to do graphic design.
 
 ## Extra
 
-- [Takeaways](takeaways/index.md)
+- [Takeaways](07-takeaways/index.md)
+
