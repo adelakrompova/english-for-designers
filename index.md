@@ -2,6 +2,8 @@
 
 I'm trying to do graphic design.
 
+<a href="https://adelakromp.myportfolio.com/en">CV</a>
+
 ## Classwork
 
 - [Alternative Text](01-alternative-text/index.md)
