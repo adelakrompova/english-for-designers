@@ -12,4 +12,7 @@ I'm trying to do graphic design.
 - [Case study](04-case-study/index.md)
 - [Experience](05-experience/index.md)
 - [Voice & Tone](06-voice-tone/index.md)
+
+## Extra
+
 - [Takeaways](takeaways/index.md)
