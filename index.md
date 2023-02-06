@@ -2,7 +2,7 @@
 
 I'm trying to do graphic design.
 
-<a href="https://adelakromp.myportfolio.com/en">CV</a>
+<a href="https://adelakromp.myportfolio.com/en">Curriculum vitæ</a>
 
 ## Classwork
 
