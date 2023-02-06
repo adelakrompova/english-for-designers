@@ -18,6 +18,7 @@ My tone is positive, respectful and emphatic. I try to be fair and honest, but a
 
 🌞 positive
 
-💪strong
+💪 strong
 
 ## Style
+
