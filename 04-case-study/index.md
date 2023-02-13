@@ -24,6 +24,8 @@ The simpliest ones are for famous people, where I choose some famous photo and r
 
 ![battles](battles.jpg)
 
+<a href="https://www.instagram.com/p/CSR8hOPsh90/">Battle of Boyacá</a> and <a href="https://www.instagram.com/p/CiBTPxfrXCU/">Battle of Actium</a>
+
 One of my most favourite illustration is portrait of Jaroslav Weigel, actor from my favourite Jara Cimrman's theatre. This picture was drawn for the his birth anniversary.
 
 ![process](process.jpg)
