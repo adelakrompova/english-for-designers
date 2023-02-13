@@ -2,7 +2,7 @@
 
 This is about one awesome project, which is being held on Instagram.
 
-There's an Instagram page called ###<a href="https://www.instagram.com/historickeokenko/">Historické okénko</a> which adds posts about some interestng historical events, which happened at that day, every day. Birth or death anniversary of famous people from Czech and world, important or less important historical events, tragedy, or sometimes just fun stuffs (for examples, <a href="https://www.instagram.com/p/ChsnHMSLQX6/">the invention of instant noodles</a>).
+There's an Instagram page called <a href="https://www.instagram.com/historickeokenko/">Historické okénko</a> which adds posts about some interestng historical events, which happened at that day, every day. Birth or death anniversary of famous people from Czech and world, important or less important historical events, tragedy, or sometimes just fun stuffs (for examples, <a href="https://www.instagram.com/p/ChsnHMSLQX6/">the invention of instant noodles</a>).
 
 I found this at the end of 2020 and was really interested about it. I was keen on history before and I really liked those illustrations. Also I find descriptions funny for being slightly nonliterary, sometimes a bit vulgarly, but definitely funny. I think that's the way to remember history easier.
 
