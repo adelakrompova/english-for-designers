@@ -30,7 +30,7 @@ One of my most favourite illustration is portrait of Jaroslav Weigel, actor from
 
 ![process](process.jpg)
 
-I redraw his portrait and in the backgroung I added the curtain like hint on my beloved Jara Cimrman theatre. 
+I redraw his portrait and in the background I added shades of brown in the shape of rays, in the sense of theater lights; then I added the curtain like hint on my beloved Jara Cimrman theatre. I wanted the illustration to have a pleasant and calm effect, so the colors in the background are in muted tones.
 
 ![done](done.jpg)
 
