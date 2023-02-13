@@ -30,5 +30,9 @@ One of my most favourite illustration is portrait of Jaroslav Weigel, actor from
 
 ![process](process.jpg)
 
+I redraw his portrait and in the backgroung I added the curtain like hint on my beloved Jara Cimrman theatre. 
+
 ![done](done.jpg)
+
+Nowadays I have done nineteen pieces of illustrations already and create periodically every month. I truly adore creating new pieces of work, I like to think about how would I render every event and I like to see that people love my work.
 
