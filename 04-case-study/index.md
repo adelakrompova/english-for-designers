@@ -30,9 +30,11 @@ One of my most favourite illustration is portrait of Jaroslav Weigel, actor from
 
 ![process](process.jpg)
 
-I redraw his portrait and in the background I added shades of brown in the shape of rays, in the sense of theater lights; then I added the curtain like hint on my beloved Jara Cimrman theatre. I wanted the illustration to have a pleasant and calm effect, so the colors in the background are in muted tones.
+I redraw his portrait and I tried to capture his kind face with wrinkles, because that's how most people know him. In the background I added shades of brown in the shape of rays, in the sense of theater lights; then I added the curtain like hint on my beloved Jara Cimrman theatre. I wanted the illustration to have a pleasant and calm effect, so the colors in the background are in muted tones.
 
 ![done](done.jpg)
 
 Nowadays I have done nineteen pieces of illustrations already and create periodically every month. I truly adore creating new pieces of work, I like to think about how would I render every event and I like to see that people love my work.
+
+I love project Historické okénko, full of creative creators and interesting information, and I'm very honored to be a part of it.♥
 
