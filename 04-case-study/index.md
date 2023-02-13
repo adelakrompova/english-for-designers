@@ -2,7 +2,7 @@
 
 This is about one awesome project, which is being held on Instagram.
 
-There's an Instagram page called <a href="https://www.instagram.com/historickeokenko/">Historické okénko</a> which adds posts about some interestng historical events, which happened at that day, every day. Birth or death anniversary of famous people from Czech and world, important or less important historical events, tragedy, or sometimes just fun stuffs (for examples, <a href="https://www.instagram.com/p/ChsnHMSLQX6/">the invention of instant noodles</a>).
+There's an Instagram page called <a href="https://www.instagram.com/historickeokenko/">Historicke okenko</a> which adds posts about some interestng historical events, which happened at that day, every day. Birth or death anniversary of famous people from Czech and world, important or less important historical events, tragedy, or sometimes just fun stuffs (for examples, <a href="https://www.instagram.com/p/ChsnHMSLQX6/">the invention of instant noodles</a>).
 
 I found this at the end of 2020 and was really interested about it. I was keen on history before and I really liked those illustrations. Also I find descriptions funny for being slightly nonliterary, sometimes a bit vulgarly, but definitely funny. I think that's the way to remember history easier.
 
@@ -30,11 +30,13 @@ One of my most favourite illustration is portrait of Jaroslav Weigel, actor from
 
 ![process](process.jpg)
 
+
+
 I redraw his portrait and I tried to capture his kind face with wrinkles, because that's how most people know him. In the background I added shades of brown in the shape of rays, in the sense of theater lights; then I added the curtain like hint on my beloved Jara Cimrman theatre. I wanted the illustration to have a pleasant and calm effect, so the colors in the background are in muted tones.
 
 ![done](done.jpg)
 
 Nowadays I have done nineteen pieces of illustrations already and create periodically every month. I truly adore creating new pieces of work, I like to think about how would I render every event and I like to see that people love my work.
 
-I love project Historické okénko, full of creative creators and interesting information, and I'm very honored to be a part of it.♥
+I love project Historicke okenko, full of creative creators and interesting information, and I'm very honored to be a part of it.♥
 
