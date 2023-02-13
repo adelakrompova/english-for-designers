@@ -9,8 +9,11 @@
 May 2022–September 2022
 
 · editing photos
+
 · making ad spots
+
 · creating web banners
+
 · complete final materials
 
 <a href="https://dentsu.cz/">More about Dentsu Czech Republic</a>
@@ -20,8 +23,11 @@ May 2022–September 2022
 2018
 
 · preparation of print-ready data
+
 · typesetting of corporate materials 
+
 · taking and editing photos
+
 · co-organization of corporate events for clients
 
 <a href="https://www.cryptomania.cz/en/about-us/">More about Cryptomania</a>
