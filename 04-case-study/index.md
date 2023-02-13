@@ -6,6 +6,8 @@ There's an Instagram page called <a href="https://www.instagram.com/historickeok
 
 I found this at the end of 2020 and was really interested about it. I was keen on history before and I really liked those illustrations. Also I find descriptions funny for being slightly nonliterary, sometimes a bit vulgarly, but definitely funny. I think that's the way to remember history easier.
 
+I remember dreaming about making some illustrations for Historické okénko and I often wondered how would I make some of those I saw in my own style. Soon the dream became reality. At the end of The May 2021, when the admins of the page challenged everyone to make an illustrations for some of their events. And I immediately accpeted.
+
 Every illustator has his own style of drawing, something what defines him. 
 That was the thing why I wanted to have my own too. 
 
@@ -18,10 +20,13 @@ All of my illustrations have satured monochrome background. With the background 
 It's probably the most easiest way of illustration but I adore it and every of them has something from me in it.
 Also I must humbly add that all feedbacks on some of my work were positive.
 
-The simpliest ones are for famous people, where I choose some famous photo and redraw it with my hand, often then I add colours based on topic or mood of the whole picture.
+The simpliest ones are for famous people, where I choose some famous photo and redraw it with my hand, often then I add colours based on topic or mood of the whole event. Those which are worse are for battles, which are least interesting for everyone. Here I need to thing about how to make it interesting because everyone remarks a portrait but not a battle. I always need to find something significant for the event what is possible to draw. 
+
+![battles](battles.jpg)
+
+One of my most favourite illustration is portrait of Jaroslav Weigel, actor from my favourite Jara Cimrman's theatre. This picture was drawn for the his birth anniversary.
 
 ![process](process.jpg)
 
 ![done](done.jpg)
 
-This is one of my most favourite illustration. It is portrait of Jaroslav Weigel, actor from my favourite Jara Cimrman's theatre. This picture was drawn for the his birth anniversary.
