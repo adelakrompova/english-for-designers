@@ -35,7 +35,7 @@ at a professional level. (I used this phrasing in my cover letter and of course,
     
     😩 <font color="FF0000">I have three university degrees, all completed with honors. I have three titles before and after my name. I know and can do everything you can think of. Whatever you say, I know and can do it. You must want me.</font>
     
-    - ### Sell yourself. But not cheaply.
+ - ### Sell yourself. But not cheaply.
 
     Tactfully highlight your positive personal qualities. Are you loyal, creative, flexible, communicative, hardworking? Brag about it! But again, no inventing, no overly positive adjectives.
 
@@ -45,9 +45,9 @@ at a professional level. (I used this phrasing in my cover letter and of course,
      
      😩 <font color="FF0000">I am perfect and humble. I will meet all your expectations. I am simply the ideal candidate, you won't find anyone better.</font>
      
-     - ### Be honest. (If you don't believe me, recall all the sayings about lies, hell, and so on.)
-     - ### Less is sometimes more.
-     - ### Don't write a novel about yourself. (Even if you're applying for a position in a publishing house). People are generally too lazy to read. One page A4 is more than enough.
-     - ### Say goodbye with a wish for a nice day. And feel free to add that you're looking forward to the next meeting. Passive-aggressive pressure doesn't  hurt here.
+ - ### Be honest. (If you don't believe me, recall all the sayings about lies, hell, and so on.)
+ - ### Less is sometimes more.
+ - ### Don't write a novel about yourself. (Even if you're applying for a position in a publishing house). People are generally too lazy to read. One page A4 is more than enough.
+ - ### Say goodbye with a wish for a nice day. And feel free to add that you're looking forward to the next meeting. Passive-aggressive pressure doesn't  hurt here.
 
 ## That's all. Thank you for your attention. You will thank me later.
