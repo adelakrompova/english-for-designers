@@ -22,7 +22,8 @@ at a professional level. (I used this phrasing in my cover letter and of course,
 
 - ### Dedicate one paragraph to your education, skills, and experience.
 
-    Note! Do not make things up, do not praise yourself excessively, and do not overdo it in general. Briefly describe your field of education and interests. Highlight only the most interesting skills that could be useful to you.
+    Note! Do not make things up, do not praise yourself excessively, and do not overdo it in general. 
+    Briefly describe your field of education and interests. Highlight only the most interesting skills that could be useful to you.
     It is an advantage if you know in advance what is required of you in the position, then it is useful (modestly!) to emphasize that you know how to do this and  that. Of course, not perfectly, nobody is perfect, except for the person you are sending the letter to. That goes without saying.
     
     🤗 <font color="#008000">I have been working and educating myself in the field of (…) for almost (…) years. I try to stay up to date with current creative trends while also striving to be original in my work and develop my own distinct style. During my high school studies, I acquired (…) My university studies focused more on the world of advertising, marketing, and media graphics. I have learned to communicate with clients and am also involved in some projects of our school agency to further expand my portfolio and experience. Furthermore, I strive to improve in my field and enjoy learning new things.</font>
