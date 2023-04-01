@@ -9,4 +9,7 @@ Motivational letters are still important nowadays. Through a letter, one can bet
 As a self-proclaimed amateur expert in writing motivational letters, I would like to share a few tips that have helped me in finding my dream job. 
 I have compiled these helpful tips into the following points:
 
+### - Make it clear that you know where and for which job position you are applying.
+  
+
 
