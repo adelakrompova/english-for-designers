@@ -51,3 +51,5 @@ at a professional level. (I used this phrasing in my cover letter and of course,
  - ### Say goodbye with a wish for a nice day. And feel free to add that you're looking forward to the next meeting. Passive-aggressive pressure doesn't  hurt here.
 
 ## That's all. Thank you for your attention. You will thank me later.
+
+![giphy](thanks.gif)
