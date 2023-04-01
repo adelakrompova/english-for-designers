@@ -14,6 +14,6 @@ I have compiled these helpful tips into the following points:
     You have another argument for why you want to work specifically in this position - for example, because it is a well-known brand with a long tradition at a       professional level. (I used this phrasing in my cover letter and of course, I succeeded. So come up with something of your own.)
     Or mention that you like their activities (you can mention something specific) or projects, and you would like to be involved in them as well.
     
-    🤗 <font color="#00A651">Your offer has attracted me because you are a prestigious institution with a long-standing tradition and a professional level. I would be delighted to participate in your projects that bring joy to the general public and, above all, promote awareness in an important field>
+    🤗 <font color="#00A651">Your offer has attracted me because you are a prestigious institution with a long-standing tradition and a professional level. I would be delighted to participate in your projects that bring joy to the general public and, above all, promote awareness in an important field.</font>
 
 
