@@ -47,7 +47,7 @@ at a professional level. (I used this phrasing in my cover letter and of course,
      
  - ### Be honest. (If you don't believe me, recall all the sayings about lies, hell, and so on.)
  - ### Remebr, less is sometimes more.
- - ### Don't write a novel about yourself. (Even if you're applying for a position in a publishing house). People are generally too lazy to read. One A page is more than enough.
+ - ### Don't write a novel about yourself. (Even if you're applying for a position in a publishing house). People are generally too lazy to read. One A4 page is more than enough.
  - ### Say goodbye with a wish for a nice day. And feel free to add that you're looking forward to the next meeting. Passive-aggressive pressure doesn't  hurt here.
 
 ## That's all. Thank you for your attention. You will thank me later.
