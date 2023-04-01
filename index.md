@@ -17,7 +17,7 @@ I'm trying to do graphic design.
 
 - [Takeaways](07-takeaways/index.md)
 
-## My thesis
+## My bachelor's thesis
 
 - [Abstract](08-thesis-abstract/index.md)
 
