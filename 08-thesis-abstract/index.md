@@ -5,7 +5,7 @@ The aim of the thesis is to create a design that will bring the castle into the 
 
 The theoretical part focuses on defining visual identity, basic graphic design concepts, and marketing communication. It also provides a closer description of marketing in the cultural industry and is followed by an analysis of the communication of state and private heritage sites. The practical part deals with the creation of the new visual style of the castle and its subsequent implementation in the new castle communication.
 
-The result of the thesis should be the creation of a unified visual identity that will function in the long term in the specific industry of cultural and heritage tourism, and attract a wider audience to the private castle, of which there are dozens in our country, in a non-invasive and elegant way.
+The result of the thesis should be the creation of a unified visual identity that will function in the long term in the specific industry of cultural and heritage tourism. This identity should distinguish itself from similar objects, of which there are dozens in our region, and attract a wider audience to the private castle in a subtle and elegant way.
 
 ## Keywords
 
