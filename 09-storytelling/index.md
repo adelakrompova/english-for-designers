@@ -2,6 +2,8 @@
 
 ## Write motivation letter like a master
 
+<a href="Storytelling.pdf/">PDF file is here!</a>
+
 A motivational letter is a document that serves to present the personality, experience, and motivation of an applicant for a job position, study program, or other opportunity. The motivational letter may be a part of a job or school application and serves to convince the employer or admissions committee that the applicant has the necessary qualifications and motivation for the given position or study program.
 
 Motivational letters are still important nowadays. Through a letter, one can better present their qualities, experience, and work achievements.
