@@ -1,8 +1,8 @@
 # Storytelling
 
-## Write motivation letter like a pro
+## How to write a motivation letter like a pro
 
-<a href="https://adelakromp.myportfolio.com/storytelling/">PDF file is here!</a>
+[PDF file is here!](Storytelling.pdf)
 
 A motivational letter is a document that serves to present the personality, experience, and motivation of an applicant for a job position, study program, or other opportunity. The motivational letter may be a part of a job or school application and serves to convince the employer or admissions committee that the applicant has the necessary qualifications and motivation for the given position or study program.
 
