@@ -10,3 +10,13 @@ From the beginning, I knew that I wanted to portray the Boskovice Castle in a mo
 
 ### The concept of visual identity
 
+- Empire style
+- elegance
+- symmetry
+- minimalism
+- relax
+
+### Moodboard
+
+
+
