@@ -24,7 +24,7 @@ This moodboard for my concept reflects all the mentioned aspects. It includes th
 
 ### Color palette
 
-![colors](základní barevnost.png)
+![colors](barvy.png)
 
 I took the gold and dark blue colors from the coat of arms of the family that owns the castle. Since the combination of gold and blue is typical for castles, I looked for colors that would appropriately differentiate Boskovice Castle, and shades of green seemed to be the best choice. It corresponds to the castle garden, greenhouse, and outdoor events, which are often held there. At the same time, it is more modern, highlighting the castle's use for modern-day purposes. The cream color reflects not only the colors of the entrance hall and staircase but also a certain elegance, delicacy, and minimalism of French design.
 
