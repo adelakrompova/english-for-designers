@@ -36,7 +36,11 @@ To complete the entire visual and emphasize the concept, I also played around wi
 
 ![m](koncept_m.jpg)
 
+### Logotype
 
+![logo](
+
+In the context of the castle's visual identity, the logo itself is not as important because the castle does not communicate solely through the logo, as is the case with other corporate identities, but through the overall design as such. The logo serves as a complementary element that reflects the concept of the visual style and its main aspects. It is therefore symmetrical and consists of two mirrored capital letters B. It is complemented by the name of the castle. The logo appears simple and modern, but at the same time fits the castle object and complements the entire visual style.
 
 
 
