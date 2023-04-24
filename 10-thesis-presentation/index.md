@@ -18,5 +18,7 @@ From the beginning, I knew that I wanted to portray the Boskovice Castle in a mo
 
 ### Moodboard
 
+![moodboard](moodboard_final.png)
+
 
 
