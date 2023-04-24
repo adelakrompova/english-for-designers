@@ -21,4 +21,5 @@ I'm trying to do graphic design.
 ## My bachelor's thesis
 
 - [Abstract](08-thesis-abstract/index.md)
+- [Bachelor's thesis](10-thesis-presentation/index.md)
 
