@@ -2,7 +2,8 @@
 
 # Visual identity and communication for the private castle Boskovice
 
-I am a big enthusiast of historical landmarks and history in general. That's why my bachelor's thesis topic is related to this hobby of mine. I wanted to combine history and heritage objects with the field that I am studying, and I hope I managed to do so.
+I am a big enthusiast of historical landmarks and history in general. That's why my bachelor's thesis topic is related to this hobby of mine. 
+I wanted to combine history and heritage objects with the field that I am studying, and I hope I managed to do so.
 
 The Boskovice Castle currently lacks clear visual communication. All communication, whether on social media or the website, is conveyed through photographs of the castle building and its interiors. The castle doesn't have a defined visual style and therefore lacks a way to differentiate itself from competitors, as it lacks any distinctive memorable aspect. 
 
@@ -44,9 +45,13 @@ In the context of the castle's visual identity, the logo itself is not as import
 
 ### Photos
 
-[fotky](
+[fotky](uprava_fotek.jpg)
 
 Some photographs are cropped into an arched shape, which is inspired by the shape of the castle windows. The task of such improved photographs or images is to demonstrate a connection with the castle architecture, with similarly shaped typography, the visual will naturally connect and distinguish the entire object from others.
+
+### Voilà!
+
+
 
 
 
