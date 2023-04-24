@@ -32,6 +32,10 @@ I took the gold and dark blue colors from the coat of arms of the family that ow
 
 To complete the entire visual and emphasize the concept, I also played around with the font.
 
+![zamek](koncept_typografie.jpg)
+
+![m](koncept_m.jpg)
+
 
 
 
