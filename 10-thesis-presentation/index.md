@@ -55,7 +55,7 @@ Some photographs are cropped into an arched shape, which is inspired by the shap
 
 ![plakaty](plakaty.jpg)
 
-![plakaty](plakaty_2.jpg)
+![plakaty](plakaty_2.png)
 
 ![tickets](vstupenky.jpg)
 
