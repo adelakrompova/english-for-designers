@@ -3,7 +3,6 @@
 # Visual identity and communication for the private castle Boskovice
 
 I am a big enthusiast of historical landmarks and history in general. That's why my bachelor's thesis topic is related to this hobby of mine. 
-
 I wanted to combine history and heritage objects with the field that I am studying, and I hope I managed to do so.
 
 ![boskovice](zamek-boskovice-2022_12_7-125320.jpg)
