@@ -17,9 +17,10 @@ I'm trying to do graphic design.
 ## Extra
 
 - [Takeaways](07-takeaways/index.md)
+- [Year End Review](11-year-end-review/index.md)
 
 ## My bachelor's thesis
 
 - [Abstract](08-thesis-abstract/index.md)
-- [Bachelor's thesis](10-thesis-presentation/index.md)
+- [The best of my bachelor's thesis](10-thesis-presentation/index.md)
 
