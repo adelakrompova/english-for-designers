@@ -60,21 +60,39 @@ Some photographs are cropped into an arched shape, which is inspired by the shap
 
 ![plakaty](plakaty_2.png)
 
+The main element of the visual identity concept, symmetry, is once again addressed through typography composition in all posters. I am not afraid to deviate from the given color scheme, because these are mostly cultural events that offer greater color freedom due to their diverse character. Thanks to the other design elements that are reflected throughout the entire visual identity, I connect the main idea of the entire identity. Here, I combine the arc shape of photographs, the shape and placement of the pattern, typography elements, and multiple shades of colors.
+
 ![tickets](vstupenky.jpg)
+
+With the tickets, I also wanted them to serve as a design image for souvenir purposes.
 
 ![kniha](kniha.jpg)
 
 ![knizka](knizka.jpg)
 
+I designed the covers for two publications that focus on the history of the castle and the Mensdorff-Pouilly family. Here, it was also necessary to somehow display the visual style, although not to the same extent as with the posters or tickets. However, since these are publications about the castle that serve its promotion, it was necessary to stick to the basic principles of the style, so symmetry, basic colors, and the shape of photographs are used here again. Through design, I tried to depict the difference between the genres or themes of the books; the book about the Mensdorff-Pouilly family is more sophisticated, professional, and decorative, while the publication about the castle itself appears more approachable and the design does not reflect a certain strictness and respect as in the case of the book about the aristocratic family.
+
 ![web](web.jpg)
 
 ![balicek](zlaty_balicek.png)
 
+I also decided to design letter paper and envelopes that could be used for sending the aforementioned postcards. Although sending paper letters is rather exceptional in today's online age, it fits the atmosphere and idea of the whole castle and suggests a return to the historical way of delivering messages. The letter paper and envelope look more ostentatious than ordinary stationery and thus suit the castle environment. The colors, typography, and slightly hinted pattern correspond with other communication materials of the castle's visual identity.
+
 ![vino](vino.png)
+
+I wanted somewhat unconventional items that would differentiate Boskovice Castle from other objects and also be typical of it. By designing wine labels, I suggest that Boskovice Castle is located in the South Moravian region, which is renowned primarily for its vineyards.
 
 ![ukazatele](ukazatele.jpg)
 
 ![tabule](tabule.jpg)
+
+### Communication
+
+From the beginning, I wanted to portray Boskovice Castle as an elegant place where the public can experience a cultural and historical journey, relax, and immerse themselves in the atmosphere of aristocratic surroundings. Since the castle is privately owned by a significant noble family, I could not afford to communicate with the public using commonly known phrases used by most state-owned facilities in the Czech Republic. My intention was to use a suitable tone of communication to show that Boskovice Castle has a certain level of accessibility to those who resonate with it and seek experiences and entertainment in a similar spirit. However, I also needed to be careful not to overdo the communication style with excessive nobility, as I did not want the castle to be perceived as too luxurious and only for a select target group.
+
+I kept the main slogan of the castle communication, which is "Zámek Boskovice: Empire Pearl of Moravia."
+
+## Thank you for your attention and visit castles!
 
 
 
