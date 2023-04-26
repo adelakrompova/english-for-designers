@@ -14,13 +14,13 @@ I'm trying to do graphic design.
 - [Voice and Tone](06-voice-and-tone/index.md)
 - [Storytelling](09-storytelling/index.md)
 
-## Extra
-
-- [Takeaways](07-takeaways/index.md)
-- [Year End Review](11-year-end-review/index.md)
-
 ## My bachelor's thesis
 
 - [Abstract](08-thesis-abstract/index.md)
 - [The best of my bachelor's thesis](10-thesis-presentation/index.md)
+
+## Extra
+
+- [Takeaways](07-takeaways/index.md)
+- [Year End Review](11-year-end-review/index.md)
 
