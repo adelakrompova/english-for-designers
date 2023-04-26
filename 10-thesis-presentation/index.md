@@ -16,21 +16,12 @@ From the beginning, I knew that I wanted to portray the Boskovice Castle in a mo
 
 ### The concept of visual identity
 
-- Empire style
-- elegance
-- symmetry
-- minimalism
-- relax
+![moodboard](bachelor_presentation.png)
 
-### Moodboard
-
-![moodboard](moodboard_final.png)
-
-This moodboard for my concept reflects all the mentioned aspects. It includes the Empire axis, castle elegance, minimalist symmetry, and cultural activities.
 
 ### Color palette
 
-![colors](barvy.png)
+![colors](colors.png)
 
 I took the gold and dark blue colors from the coat of arms of the family that owns the castle. Since the combination of gold and blue is typical for castles, I looked for colors that would appropriately differentiate Boskovice Castle, and shades of green seemed to be the best choice. It corresponds to the castle garden, greenhouse, and outdoor events, which are often held there. At the same time, it is more modern, highlighting the castle's use for modern-day purposes. The cream color reflects not only the colors of the entrance hall and staircase but also a certain elegance, delicacy, and minimalism of French design.
 
@@ -74,6 +65,8 @@ I designed the covers for two publications that focus on the history of the cast
 
 ![web](web.jpg)
 
+I have designed the landing page for Boskovice Castle website. It serves as a base for the most important information and as a gateway for searching more detailed information. My goal was to create a functional website that is simple, clear, and reflects the visual style and concept. The entire web design system is based on visual identity.
+
 ![balicek](zlaty_balicek.png)
 
 I also decided to design letter paper and envelopes that could be used for sending the aforementioned postcards. Although sending paper letters is rather exceptional in today's online age, it fits the atmosphere and idea of the whole castle and suggests a return to the historical way of delivering messages. The letter paper and envelope look more ostentatious than ordinary stationery and thus suit the castle environment. The colors, typography, and slightly hinted pattern correspond with other communication materials of the castle's visual identity.
@@ -85,6 +78,8 @@ I wanted somewhat unconventional items that would differentiate Boskovice Castle
 ![ukazatele](ukazatele.jpg)
 
 ![tabule](tabule.jpg)
+
+Navigation elements are an indispensable part of any tourist attraction. They contain additional information regarding its operation and organization. Information boards are carriers of detailed information, such as what can be seen here, price lists, invitations to other sights in the area, and so on. It is also necessary to somehow incorporate at least the basic elements of visual identity to ensure that all visual information with which visitors come into contact during their visit to the attraction appears unified, attractive, and evokes a sense of familiarity in them later on.
 
 ### Communication
 
