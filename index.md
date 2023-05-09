@@ -22,5 +22,5 @@ I'm trying to do graphic design.
 ## Extra
 
 - [Takeaways](07-takeaways/index.md)
-- [Year End Review](11-year-end-review/index.md)
+- [Year End Review](00-year-end-review/index.md)
 
