@@ -1,10 +1,10 @@
 # Year End Review
 
-1) What did you like most about this course?
+## 1) What did you like most about this course?
 
 I liked that the courses were not about grammar, but mainly about presenting oneself and one's work. It was great to try and learn to think in English. And the best part was that we were not divided according to our language level and the approach was the same for each of us. Thanks for that.😊
 
-2) What did you like least about this course?
+## 2) What did you like least about this course?
 
 Sometimes three hours seemed like too much to me. But others probably decide on that. However, most of the hours flew by quickly for me, thanks to interesting activities, presentations, and topics.
 
