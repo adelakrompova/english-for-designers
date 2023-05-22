@@ -2,7 +2,7 @@
 
 ## 1) What did you like most about this course?
 
-I liked that the courses were not about grammar, but mainly about presenting oneself and one's work. It was great to try and learn to think in English. And the best part was that we were not divided according to our language level and the approach was the same for each of us. Thanks for that.😊
+I liked that the classes were not about grammar but mainly about presenting oneself and one’s work. It was great to try and learn to think in English. And the best part was that we were not divided according to our language level and the approach was the same for each of us. Thanks for that.😊
 
 ## 2) What did you like least about this course?
 
