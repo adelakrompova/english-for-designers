@@ -1,6 +1,6 @@
-# Hi, I'm Adela🥂
+# Hi, I'm Adéla🥂
 
-I'm trying to do graphic design.
+I'm doing graphic design.
 
 <a href="https://adelakromp.myportfolio.com/en">Curriculum vitæ</a>
 
