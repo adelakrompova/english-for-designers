@@ -87,7 +87,7 @@ Navigation elements are an indispensable part of any tourist attraction. They co
 
 From the beginning, I wanted to portray Boskovice Castle as an elegant place where the public can experience a cultural and historical journey, relax, and immerse themselves in the atmosphere of aristocratic surroundings. Since the castle is privately owned by a significant noble family, I could not afford to communicate with the public using commonly known phrases used by most state-owned facilities in the Czech Republic. My intention was to use a suitable tone of communication to show that Boskovice Castle has a certain level of accessibility to those who resonate with it and seek experiences and entertainment in a similar spirit. However, I also needed to be careful not to overdo the communication style with excessive nobility, as I did not want the castle to be perceived as too luxurious and only for a select target group.
 
-I kept the main slogan of the castle communication, which is "Zámek Boskovice: Empire Pearl of Moravia."
+####I kept the main slogan of the castle communication, which is "Zámek Boskovice: Empire Pearl of Moravia."
 
 ## Thank you for your attention and visit castles!
 
